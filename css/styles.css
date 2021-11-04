@@ -8,7 +8,8 @@ nav ul li {
 
 nav ul li a {
     display: block;
-    padding: .4rem 1 rem;
+    padding: .5rem 1 rem;
+    color: #eeeeee;
     background-color: #1c5502;
 }
 
@@ -22,4 +23,5 @@ main img {
 
 footer {
     text-align: center;
+    clear: both;
 }
