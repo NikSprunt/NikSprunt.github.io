@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18080" appversion="6.1.13" start="node4">
+  <panorama id="node4">
+    <input levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="2222" levelbias="0.400" height="2222">
+      <level predecode="0" preload="0" width="2222" height="2222"/>
+      <level predecode="0" preload="0" width="1111" height="1111"/>
+      <level predecode="0" preload="0" width="555" height="555"/>
+      <level predecode="1" preload="1" width="277" height="277"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="57" fovmode="0">
+      <start projection="4" pan="-39.8301" tilt="2.97057" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="Spanish Fork Memorial Square" latitude="40.54518857" datetime="" info="" customnodeid="" copyright="" tags="PANOS" longitude="-111.41377374" description="Memorial Square Park on Main Street in Spanish Fork Utah" author="Cam Stephens" heading="57" source="" nodeid="node4" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" width="180" enabled="1" background="1" wordwrap="1" height="20" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Move Here" target="-109.3/0.0/70.0" url="{node3}" pan="-88.35" id="Point01" tilt="-1.13" description="" skinid="ht_node" distance="5.65734"/>
+      <hotspot title="The Spirit of '76" target="" url="images/The Spirit of ‘76.png" pan="-20.88" id="Point02" tilt="14.72" description="" skinid="ht_image"/>
+      <hotspot title="Signing The Constitution" target="" url="images/Constitution.png" pan="-30.58" id="Point03" tilt="-12.76" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomspeed="2" softedge="0" blendcolor="0x000000" blendtime="1" zoomafterinfov="90" zoomafteroutfov="20" enabled="1" zoomout="0" zoomin="0" type="crossdissolve" zoomfov="20"/>
+    <autorotate nodedelay="0.00" startloaded="0" returntohorizon="0.000" useanimation="0" delay="5.00" enabled="1" nodefilter="" noderandom="1" speed="0.050"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" sensitivity="8" lockedmouse="0" contextvr="1" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="2228" levelbias="0.400" height="2228">
+      <level predecode="0" preload="0" width="2228" height="2228"/>
+      <level predecode="0" preload="0" width="1114" height="1114"/>
+      <level predecode="0" preload="0" width="557" height="557"/>
+      <level predecode="1" preload="1" width="278" height="278"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="38" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="Spanish Fork Memorial Square" latitude="40.54514577" datetime="" info="" customnodeid="" copyright="" tags="PANOS" longitude="-111.41373754" description="Memorial Square Park on Main Street in Spanish Fork Utah" author="Cam Stephens" heading="38" source="" nodeid="node3" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" width="180" enabled="1" background="1" wordwrap="1" height="20" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Move Here" target="89.7/0.0/70.0" url="{node4}" pan="67.05" id="Point01" tilt="-0.29" description="" skinid="ht_node" distance="5.65734"/>
+      <hotspot title="Move Here" target="88.7/0.0/70.0" url="{node2}" pan="-108.55" id="Point02" tilt="-1.46" description="" skinid="ht_node" distance="6.53773"/>
+      <hotspot title="Crossing The Delaware" target="" url="images/Washington Crossing.png" pan="-346.33" id="Point03" tilt="20.76" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomspeed="2" softedge="0" blendcolor="0x000000" blendtime="1" zoomafterinfov="90" zoomafteroutfov="20" enabled="1" zoomout="0" zoomin="0" type="crossdissolve" zoomfov="20"/>
+    <autorotate nodedelay="0.00" startloaded="0" returntohorizon="0.000" useanimation="0" delay="5.00" enabled="1" nodefilter="" noderandom="1" speed="0.050"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" sensitivity="8" lockedmouse="0" contextvr="1" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="2225" levelbias="0.400" height="2225">
+      <level predecode="0" preload="0" width="2225" height="2225"/>
+      <level predecode="0" preload="0" width="1112" height="1112"/>
+      <level predecode="0" preload="0" width="556" height="556"/>
+      <level predecode="1" preload="1" width="278" height="278"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="235" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="Spanish Fork Memorial Square" latitude="40.54509685" datetime="" info="" customnodeid="" copyright="" tags="PANOS" longitude="-111.41369462" description="Memorial Square Park on Main Street in Spanish Fork Utah" author="Cam Stephens" heading="235" source="" nodeid="node2" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" width="180" enabled="1" background="1" wordwrap="1" height="20" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Move Here" target="71.7/0.0/70.0" url="{node3}" pan="265.13" id="Point01" tilt="0.06" description="" skinid="ht_node" distance="6.53773"/>
+      <hotspot title="Move Here" target="-160.7/0.0/70.0" url="{node1}" pan="89.03" id="Point02" tilt="-1.25" description="" skinid="ht_node" distance="8.6741"/>
+      <hotspot title="Mount Timpanogos" target="" url="images/Timp.png" pan="-358.96" id="Point03" tilt="1.35" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomspeed="2" softedge="0" blendcolor="0x000000" blendtime="1" zoomafterinfov="90" zoomafteroutfov="20" enabled="1" zoomout="0" zoomin="0" type="crossdissolve" zoomfov="20"/>
+    <autorotate nodedelay="0.00" startloaded="0" returntohorizon="0.000" useanimation="0" delay="5.00" enabled="1" nodefilter="" noderandom="1" speed="0.050"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" sensitivity="8" lockedmouse="0" contextvr="1" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="2220" levelbias="0.400" height="2220">
+      <level predecode="0" preload="0" width="2220" height="2220"/>
+      <level predecode="0" preload="0" width="1110" height="1110"/>
+      <level predecode="0" preload="0" width="555" height="555"/>
+      <level predecode="1" preload="1" width="277" height="277"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-14" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="Spanish Fork Memorial Square" latitude="40.54503163" datetime="" info="" customnodeid="" copyright="" tags="PANOS" longitude="-111.41363830" description="Memorial Square Park on Main Street in Spanish Fork Utah" author="Cam Stephens" heading="-14" source="" nodeid="node1" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" width="180" enabled="1" background="1" wordwrap="1" height="20" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Move Here" target="-92.4/0.0/70.0" url="{node2}" pan="16.55" id="Point01" tilt="-1.25" description="" skinid="ht_node" distance="8.6741"/>
+    </hotspots>
+    <media>
+      <video rotz="-1.000" fov="40.160" roty="4.000" height="70" startmutedmobile="0" ambientlevel="0.300" clickmode="2" nodechangekeep="0" loop="2" id="Element01" width="100" handcursor="0" pan="-65.390" tiltsize="10.000" mode="3" tilt="9.550" stretch="1.000" field="90.000" level="1.000" pansize="10.000" rotx="5.000">
+        <source url="media/WasatchVideo.mov"/>
+      </video>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" softedge="0" blendcolor="0x000000" blendtime="1" zoomafterinfov="90" zoomafteroutfov="20" enabled="1" zoomout="0" zoomin="0" type="crossdissolve" zoomfov="20"/>
+    <autorotate nodedelay="0.00" startloaded="0" returntohorizon="0.000" useanimation="0" delay="5.00" enabled="1" nodefilter="" noderandom="1" speed="0.050"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" sensitivity="8" lockedmouse="0" contextvr="1" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="Spanish Fork Memorial Square" latitude="40.11266000" datetime="" info="" customnodeid="" copyright="" tags="" longitude="-111.65444000" description="Memorial Square Park on Main Street in Spanish Fork Utah" author="Cam Stephens" heading="0" source="" nodeid="master" comment=""/>
+  </masternode>
+</tour>
